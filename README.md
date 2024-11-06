@@ -29,7 +29,7 @@
 
 #
 
-<h3>Contatos</h3>
+<h3>Redes Sociais</h3>
  
 <div>
   <a href="https://instagram.com/walesmalta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
