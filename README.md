@@ -4,7 +4,7 @@
 
 #
 
-<p>Sou uma entusiasta de tecnologia e estou dando meus primeiros passos na programação, com foco em desenvolvimento web. Atualmente, tenho conhecimentos em HTML e CSS, e estou mergulhando no JavaScript para expandir minhas habilidades e criar projetos mais interativos.</p>
+<p>Sou uma entusiasta de tecnologia e estou dando meus primeiros passos na programação, com foco em desenvolvimento web. Atualmente tenho conhecimentos em HTML e CSS, e estou mergulhando no JavaScript para expandir minhas habilidades e criar projetos mais interativos.</p>
 
 <p>Meu objetivo é evoluir como desenvolvedora, construindo projetos práticos e colaborando com outros devs. Estou aberta a oportunidades para aprender e ganhar experiência no mercado.</p>
 
