@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=ff64da&vCenter=true&random=false&width=524&lines=Oii,+eu+me+chamo+Waleska!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=C97CF3&vCenter=true&random=false&width=524&lines=Oii,+eu+me+chamo+Waleska!" alt="Typing SVG">
 </a>
 
 #
@@ -14,8 +14,8 @@
 
 <div>
   <a href="https://github.com/walesmalta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walesmalta&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&bg_color=14181e&border_color=ff64da"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walesmalta&layout=compact&langs_count=6&theme=jolly&bg_color=14181e&border_color=ff64da"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=walesmalta&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=14181e&border_color=C97CF3&text_color=E1B9F9&title_color=C97CF3&icon_color=C97CF3"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walesmalta&layout=compact&langs_count=6&theme=material-palenight&bg_color=14181e&border_color=C97CF3&title_color=C97CF3"/>
 </div>
 
 #
@@ -23,8 +23,9 @@
 <h3>Tecnologias</h3> 
 
 <div>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-EA4C89?.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-EA4C89?.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-C97CF3?.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-C97CF3?.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-C97CF3?.svg?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
 #
